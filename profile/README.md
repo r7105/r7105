@@ -1,5 +1,7 @@
 # Reach Studios (r7105)
 
+This Org is outdated and no longer maintained, please resort to [ChitterSync](https://github.com/chittersync)
+
 ## About Us
 Welcome to **Reach Studios (r7105)**, where we strive to make life simpler and better by providing easy-to-use resources like **Jade**, **ChitterSync**, and much more. We are passionate about creating solutions that streamline experiences on platforms like Discord and beyond. Our goal is to focus on simplicity rather than complexity, making everyday digital interactions smoother and more accessible.
 
